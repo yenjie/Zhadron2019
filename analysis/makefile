@@ -18,3 +18,6 @@ ExecutePlot: EEMM.cpp
 
 Execute: BasicPlots.cpp
 	CompileRootMacro BasicPlots.cpp Execute 
+
+ZMass: ZMass.cpp
+	CompileRootMacro ZMass.cpp Execute 
